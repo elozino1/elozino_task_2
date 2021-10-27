@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">elozino_task_2</string>
+    <string name="textview1">activity state</string>
+    <string name="textview2">orientation count</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="pushButton">Push</string>
+    <string name="popButton">Pop</string>
+</resources>
